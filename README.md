@@ -144,14 +144,20 @@ Ensure the service account has:
 ## Future Improvements
 
 - 
-● Implement more sophisticated clustering algorithms like DBSCAN
+Implement more sophisticated clustering algorithms like DBSCAN
 or Spectral Clustering to detect irregular patterns that K-Means
 might miss due to its assumptions on data distribution.
-● Extend the Pub/Sub-based pipeline to trigger real-time alerts
+
+
+Extend the Pub/Sub-based pipeline to trigger real-time alerts
 (emails, Slack notifications, etc.) when an anomaly is detected.
-● With labeled data (malicious vs. legitimate activity), supervised
+
+
+With labeled data (malicious vs. legitimate activity), supervised
 models such as Random Forest or SVM can be trained for better
 precision in detecting threats.
+
+
 ---
 
 ## Author
