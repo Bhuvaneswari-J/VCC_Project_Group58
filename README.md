@@ -143,7 +143,7 @@ Ensure the service account has:
 ```
 ## Future Improvements
 
-- 
+
 Implement more sophisticated clustering algorithms like DBSCAN
 or Spectral Clustering to detect irregular patterns that K-Means
 might miss due to its assumptions on data distribution.
