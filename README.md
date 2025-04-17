@@ -4,6 +4,9 @@
 This project simulates **malicious insider activity** such as unauthorized VM logins and suspicious data transfers, and uses **Google Cloud Platform (GCP)** to detect, log, analyze, and classify these behaviors.
 
 ---
+# Architecture
+![image](https://github.com/user-attachments/assets/2adcec54-dcae-4e01-92f5-aabe5ce79007)
+
 
 ## Features
 
