@@ -1,4 +1,11 @@
 # VCC_Project_Group58
+# Authors
+Nikita Krishna-M23AID026-Designed and developed system to publish unauthorised login attempts to GCP VM.
+
+Aparna Pundir-M23AID006-Designed and developed system to push unauthorized login attempt messages from pub/sub to BigQuery.
+
+Bhuvaneswari J-M23AID053-Designed and developed K means ML model on Bigquery data.
+
 # Insider Threat Detection System on GCP
 
 This project simulates **malicious insider activity** such as unauthorized VM logins and suspicious data transfers, and uses **Google Cloud Platform (GCP)** to detect, log, analyze, and classify these behaviors.
