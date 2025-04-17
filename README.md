@@ -10,6 +10,11 @@ Bhuvaneswari J-M23AID053-Designed and developed K means ML model on Bigquery dat
 
 This project simulates **malicious insider activity** such as unauthorized VM logins and suspicious data transfers, and uses **Google Cloud Platform (GCP)** to detect, log, analyze, and classify these behaviors.
 
+# Colab file with python script and result
+
+https://colab.research.google.com/drive/1d8JR2i8_R_3QqnD3QU9rMO0KzuS2syXk?usp=sharing
+
+
 ---
 # Architecture
 ![image](https://github.com/user-attachments/assets/2adcec54-dcae-4e01-92f5-aabe5ce79007)
