@@ -14,6 +14,13 @@ This project simulates **malicious insider activity** such as unauthorized VM lo
 
 https://colab.research.google.com/drive/1d8JR2i8_R_3QqnD3QU9rMO0KzuS2syXk?usp=sharing
 
+# Project Presentation ppt link
+
+https://docs.google.com/presentation/d/1Pt4oMaNQesHlOFBdo6hEax7hU6F3p9QkMYgEBz1Yhzw/edit?usp=sharing
+
+# Project Demo video link
+
+https://drive.google.com/file/d/1fVVt9xKGeNu5yznakEuxQZWF3QktzY4A/view?usp=drivesdk
 
 ---
 # Architecture
